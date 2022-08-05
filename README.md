@@ -1,0 +1,2 @@
+# Alat-Notifikasi-Kedatangan-Pelanggan-Berbasis-Internet-Of-Things
+Seiring berjalannya waktu para pengunjung toko semakin meningkat namun terdapat kendala pada bagian penanganan pembeli dikarenakan pemilik toko sering meninggalkan toko untuk keperluan yang lain sehingga pembeli meninggalkan toko dan pemilik toko tidak dapat melayani pembeli dan itu dapat menurunkan jumlah pelanggan yang akan datang. berdasarkan permasalahan ini saya berinisiatif membuat Alat Notifikasi Kedatangan Pelanggan Berbasis Internet Of Things.
